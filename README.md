@@ -9,7 +9,7 @@
 ## 成功效果展示
 ### HW 1 - Modification of the N-Body Code
 
-![](/Users/zhiyingli/Documents/Github/Taichi_HW/data/HW1.gif)
+![](./data/HW1.gif)
 
 ## 整体结构（Optional）
 脉络清晰的结构能完整展示你的设计思想，以及实现方式，方便读者快读代入，建议可以在repo的目录中包含如下内容：
